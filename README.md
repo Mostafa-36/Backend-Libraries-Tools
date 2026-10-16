@@ -104,6 +104,44 @@ The implementation uses a **Map** for efficient key-based access and a **Min-Hea
 - Docker Containerization
 
 ---
+### 3. 📦 ES Modules Deep Dive in Node.js
+
+🔗 View Project: [ES Modules Deep Dive](https://github.com/Mostafa-36/es-modules-demo)
+
+A hands-on **Node.js ES Modules** project focused on understanding how Node.js loads, links, resolves, and executes modules internally, based on Chapter 2 of Node.js Design Patterns.
+
+The project explores module exports and imports, module resolution, circular dependencies, and the ES Module lifecycle, providing a deeper understanding of how Node.js manages dependencies beyond basic syntax.
+
+**Key Concepts:**
+
+- Named, Default & Mixed Exports
+- Module Identifiers & Resolution Algorithm
+- ES Module Lifecycle (Parsing, Instantiation & Evaluation)
+- Circular Dependencies
+- Module Scope & Live Bindings
+- Node.js Core & Third-Party Modules
+- Dependency Management & Dependency Hell
+- JavaScript Modules with Chalk
+
+---
+### 4. ⚙️ File Processor — Node.js Core Concepts
+
+🔗 View Project: [File Processor](https://github.com/Mostafa-36/File-Processor)
+
+A hands-on Node.js Core Concepts project focused on understanding how Node.js handles blocking and non-blocking I/O, asynchronous execution, and event-driven architecture. Inspired by Chapter 1 of Node.js Design Patterns, the project includes a custom Reactor Pattern simulator to demonstrate how the Event Loop and libuv coordinate asynchronous operations.
+
+**Key Concepts:**
+
+- Blocking & Non-blocking I/O
+- Event Loop & Asynchronous Execution
+- Reactor Pattern Simulation
+- libuv & Thread Pool
+- Event Queue & Event Handlers
+- Node.js Concurrency & Scalability
+- File System Operations
+- Event-Driven Architecture
+
+---
 
 ## 🔜 Future Projects
 
